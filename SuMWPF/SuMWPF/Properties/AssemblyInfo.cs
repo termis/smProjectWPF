@@ -55,3 +55,4 @@ using System.Windows;
 [assembly: AssemblyFileVersion("1.0.0.0")]
 // 26/09/2016 testchange
 // 26/09/2016 testchange2
+// 26/09/2016 testchange3
